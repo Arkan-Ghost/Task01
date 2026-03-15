@@ -1,3 +1,5 @@
+import layout.BorderLayoutDemo;
+
 import javax.swing.*;
 
 import static org.junit.jupiter.api.Assertions.*;
